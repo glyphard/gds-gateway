@@ -1,0 +1,20 @@
+﻿{
+  "timeZone": "America/New_York",
+  "dependencies": {
+    "libraries": []
+  },
+
+  "dataStudio": {
+    "name": "GDS Gateway - MS SQL - Connector",
+    "logoUrl": "https://img.favpng.com/4/5/6/database-icon-png-favpng-hgZ3vwqQctLEyY6X2EEN9band.jpg",
+    "company": "GDS Gateway",
+    "companyUrl": "https://developers.google.com/datastudio/",
+    "addonUrl": "https://developers.google.com/datastudio/",
+    "supportUrl": "https://github.com/glyphard/gds-gateway/issues",
+    "description": "Connect to MS SQL via GDS Gateway",
+    "sources": [ "MICROSOFT_SQL" ]
+
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
